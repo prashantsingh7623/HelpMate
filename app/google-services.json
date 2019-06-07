@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784385390367",
+    "firebase_url": "https://helpmate.firebaseio.com",
+    "project_id": "helpmate",
+    "storage_bucket": "helpmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784385390367:android:8960f895bef10dd5",
+        "android_client_info": {
+          "package_name": "project.helpmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784385390367-dp3o3u5f904tq5a2gqibscguan43cos4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.helpmate",
+            "certificate_hash": "2d8824a331dbf636dac1d0f5ad55b2a911fbf93e"
+          }
+        },
+        {
+          "client_id": "784385390367-cbknr2defpllqfqlfcvd4i915vbbvkan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKL7pZ-l7efnd9_sVO2KCAluB0R37gCHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784385390367-cbknr2defpllqfqlfcvd4i915vbbvkan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

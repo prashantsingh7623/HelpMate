@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GoogleMapsActivity">
+
+    <!--<com.google.android.material.floatingactionbutton.FloatingActionButton-->
+        <!--android:id="@+id/fab"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|end"-->
+        <!--android:layout_margin="@dimen/fab_margin"-->
+        <!--map:srcCompat="@android:drawable/ic_dialog_email" />-->
+
+    <!--<androidx.drawerlayout.widget.DrawerLayout-->
+        <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/drawer_layout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:fitsSystemWindows="true"-->
+        <!--tools:openDrawer="start">-->
+
+        <!--&lt;!&ndash;<include&ndash;&gt;-->
+            <!--&lt;!&ndash;layout="@layout/app_bar_maps"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="match_parent" />&ndash;&gt;-->
+
+        <!--<com.google.android.material.navigation.NavigationView-->
+            <!--android:id="@+id/nav_view"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_gravity="start"-->
+            <!--android:fitsSystemWindows="true"-->
+            <!--app:headerLayout="@layout/nav_header_maps"-->
+            <!--app:menu="@menu/activity_maps_drawer" />-->
+
+    <!--</androidx.drawerlayout.widget.DrawerLayout>-->
+
+</fragment>
